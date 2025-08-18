@@ -1,0 +1,9 @@
+# these are the python packages that are used for testing
+# if you use other packages, you might loose points
+matplotlib==3.8.4
+numpy==1.26.4
+pillow==10.3.0
+pytest==8.1.1
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
